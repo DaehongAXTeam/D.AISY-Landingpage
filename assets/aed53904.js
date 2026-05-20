@@ -634,7 +634,7 @@ function DaisyApp() {
             margin: '0 auto', maxWidth: 620
           }}>
             특별한 학습 없이도 누구나 즉시 활용할 수 있도록 설계된<br />
-            대홍기획의 AI 업무 파트너, <span style={{ color: '#fff', fontWeight: 600 }}>D.AISY</span>입니다.
+            DCG만의 AI 업무 파트너, <span style={{ color: '#fff', fontWeight: 600 }}>D.AISY</span>입니다.
           </p>
 
         </div>
