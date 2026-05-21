@@ -513,7 +513,7 @@ function DaisyApp() {
 
   const services = [
   {
-    id: 'sns', guideUrl: 'https://drive.google.com/file/d/1S1RBC0Zd-I6vM6_bBWAk6WIVkO-xJOJz/view?usp=sharing', serviceUrl: 'https://copygenai.onrender.com/', glyph: Glyph.sns, badge: 'SERVICE / 01',
+    id: 'sns', guideUrl: 'https://drive.google.com/file/d/1SVt7_NDKb7SzSjQmZCMah0BbWTroT45m/view?usp=sharing', serviceUrl: 'https://copygenai.onrender.com/', glyph: Glyph.sns, badge: 'SERVICE / 01',
     title: 'SNS 카피 생성 AI',
     fullTitle: 'SNS 카피 생성 AI',
     desc: 'SNS 카피라이팅 기획·제작 시, 아이디어 초안과\n베리에이션을 즉시 생성합니다.',
