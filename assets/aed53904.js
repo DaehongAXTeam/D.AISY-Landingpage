@@ -527,7 +527,7 @@ function DaisyApp() {
     status: 'live'
   },
   {
-    id: 'seo', guideUrl: '#', glyph: Glyph.seo, badge: 'SERVICE / 02',
+    id: 'seo', guideUrl: 'https://daehong-ax.gitbook.io/daehong-ax-docs', serviceUrl: 'https://dh-rankup.vercel.app/', glyph: Glyph.seo, badge: 'SERVICE / 02',
     title: 'SEO/GEO 콘텐츠 생성 AI',
     fullTitle: 'SEO/GEO 콘텐츠 생성 AI',
     desc: '타겟 대상에 맞춰 SEO/GEO에 최적화된 콘텐츠를\n생성합니다.',
@@ -538,7 +538,7 @@ function DaisyApp() {
     '키워드 전략 — 타겟 고객의 검색의도에 부합한 페르소나 생성 및 키워드 추천',
     '콘텐츠 생성 — 키워드 전략에서 선정한 키워드 기반 콘텐츠 생성'],
 
-    status: 'soon'
+    status: 'live'
   },
   {
     id: 'fact', guideUrl: '#', glyph: Glyph.fact, badge: 'SERVICE / 03',
