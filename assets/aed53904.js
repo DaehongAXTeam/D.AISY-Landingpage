@@ -541,17 +541,17 @@ function DaisyApp() {
     status: 'live'
   },
   {
-    id: 'fact', guideUrl: '#', glyph: Glyph.fact, badge: 'SERVICE / 03',
-    title: '팩트북 생성 AI',
-    fullTitle: '팩트북 생성 AI',
-    long: 'PT 제안을 위한 사전 조사를 AI가 대신합니다. 시장·소비자·트렌드 데이터를 자동으로 수집하여 한눈에 보기 쉽게 구성합니다.',
+    id: 'fact', guideUrl: '#', serviceUrl: 'https://dh-factbook.vercel.app/', glyph: Glyph.fact, badge: 'SERVICE / 03',
+    title: '팩트북 서포트 AI',
+    fullTitle: '팩트북 서포트 AI',
+    long: 'PT 제안을 위한 사전 조사를 AI가 도와드립니다. 시장·소비자·트렌드 데이터를 자동으로 수집하여 한눈에 보기 쉽게 구성합니다.',
     examples: [
     'RFP 기반 브랜드 분석 (기업정보 · 시장현황 · 자사 · 경쟁사 · 타겟)',
-    '광고 유형별 커뮤니케이션 전략 분석 (ATL / BTL / PR)'],
+    '광고 유형별 커뮤니케이션 모니터링 (BTL / PR)'],
 
-    desc: 'PT 제안을 위한 사전 조사를 AI가 대신합니다.',
+    desc: 'PT 제안을 위한 사전 조사를 AI가 도와드립니다.',
     tags: ['#리서치', '#제안 PT'],
-    status: 'soon'
+    status: 'live'
   }];
 
 
