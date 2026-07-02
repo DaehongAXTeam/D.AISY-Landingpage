@@ -541,7 +541,7 @@ function DaisyApp() {
     status: 'live'
   },
   {
-    id: 'fact', guideUrl: '#', serviceUrl: 'https://dh-factbook.vercel.app/', glyph: Glyph.fact, badge: 'SERVICE / 03',
+    id: 'fact', guideUrl: 'https://drive.google.com/file/d/1LfbJVJsYszqM0q9oLUtHUaz53d1oFqpj/view?usp=sharing', serviceUrl: 'https://dh-factbook.vercel.app/', glyph: Glyph.fact, badge: 'SERVICE / 03',
     title: '팩트북 서포트 AI',
     fullTitle: '팩트북 서포트 AI',
     long: 'PT 제안을 위한 사전 조사를 AI가 도와드립니다. 시장·소비자·트렌드 데이터를 자동으로 수집하여 한눈에 보기 쉽게 구성합니다.',
